@@ -2,7 +2,6 @@
 Copyright (c) 2017 Max deGroot, Ellis Brown
 Released under the MIT license
 https://github.com/amdegroot/ssd.pytorch
-Updated by: Takuya Mouri
 """
 # -*- coding: utf-8 -*-
 import torch
