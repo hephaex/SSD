@@ -1,8 +1,6 @@
 """VOC Dataset Classes
-
 Original author: Francisco Massa
 https://github.com/fmassa/vision/blob/voc_dataset/torchvision/datasets/voc.py
-
 Updated by: Ellis Brown, Max deGroot
 """
 """
