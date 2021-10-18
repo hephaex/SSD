@@ -2,7 +2,6 @@
 Copyright (c) 2017 Max deGroot, Ellis Brown
 Released under the MIT license
 https://github.com/amdegroot/ssd.pytorch
-Updated by: Takuya Mouri
 """
 from .voc0712 import VOCDetection, VOCAnnotationTransform, VOC_CLASSES, VOC_ROOT, BCCD_CLASSES
 # handbook
