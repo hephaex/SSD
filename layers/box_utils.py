@@ -91,7 +91,6 @@ def match(threshold, truths, priors, variances, labels, loc_t, conf_t, idx):
         The matched indices corresponding to 1)location and 2)confidence preds.
     """
     # jaccard index
-    # ボックス座標(cx,cy,w,h)を(xmin,ymin,xmax,ymax)に変換し、IoUを計算
     overlaps = jaccard(
         truths,
         point_form(priors)
